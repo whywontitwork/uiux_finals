@@ -1,0 +1,143 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template-overviews/scrolling-nav)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+
+ /* Suh, WooHyuck, bootstrap, CSS */
+
+ body {
+
+  background-color: #AD8CFF;
+  font-family: 'Neuton', serif;
+  font-style: italic;
+
+
+ }
+
+
+/* header color,style */
+.headerStyle{
+
+  color: rgb(179, 240, 12);
+}
+
+.headerStyle:hover{
+
+  color: 	#AD8CFF;
+}
+
+header {
+  padding: 154px 0 100px;
+
+  background-image: url("https://i.gifer.com/AMP.gif");
+  background-size:220px 365px;
+  background-position: bottom;
+
+
+
+}
+
+#citypop {
+  background-image: url("https://media3.giphy.com/media/mlBDoVLOGidEc/giphy.gif");
+  background-repeat: no-repeat;
+  background-position:center;
+  background-size:cover;
+}
+
+.cityStyle{
+
+  color: rgb(255, 255, 255);
+
+}
+
+
+.cityTitle{
+  color: rgb(255, 255, 255, 255);
+
+}
+
+#vaporwave {
+  background-image: url("https://media.giphy.com/media/QyQCvhAlN4Qus/giphy.gif");
+  background-position:top;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.vaporStyle{
+  color: rgb(255, 255, 255)
+
+}
+
+
+.vaporTitle{
+  color: rgb(255, 255, 255,255);
+}
+
+
+#futurefunk {
+  background-image: url("https://i.redd.it/syrxotssdbr01.gif");
+  background-repeat: no-repeat;
+  background-position:center;
+  background-size:cover;
+
+}
+
+.futureStyle{
+  color: rgb(255, 255, 255)
+}
+
+
+.futureTitle{
+  color: rgb(255, 255, 255, 255)
+}
+
+
+@media (min-width: 992px) {
+  header {
+    padding: 156px 0 100px;
+  }
+}
+
+section {
+  padding: 150px 0;
+}
+
+#vaporwave
+{
+background-color: #94D0FF;
+}
+
+.musicTitle
+{
+
+  color: rgb(255, 255, 255, 255)
+}
+
+
+.tallCol
+{
+  padding: 100px 5%;   text-align: center;
+}
+
+.img-fluid{
+  width:100%;
+  height:80%;
+ } 
+
+ .col
+{
+  padding: 100px 5%;   text-align: center;
+}
+
+
+
+/* 4x3 Aspect Ratio */
+.iframe-container-4x3 {
+  padding-top: 75%;
+}
+
+.carousel-inner > .item > img {
+  margin: 0 auto;
+}
